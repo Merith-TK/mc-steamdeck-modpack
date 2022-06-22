@@ -54,11 +54,6 @@ hash = "8fb914c75a06a677721dd1fc880606d790886be9e0b392820dcecb9bb56e0786"
 metafile = true
 
 [[files]]
-file = "mods/lithium.pw.toml"
-hash = "f264c166b22cf93af5e44a3d65931e2a46008d11ee0cd81f209a3af54979a760"
-metafile = true
-
-[[files]]
 file = "mods/midnightcontrols.pw.toml"
 hash = "2025781b6cd1a292e5a9c42d9596e81e09a8a5f63fcc86042312332337976558"
 metafile = true
