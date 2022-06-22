@@ -1,8 +1,32 @@
 hash-format = "sha256"
 
 [[files]]
-file = "bin/version.json"
-hash = "b5f8dc11af2e5d2eeb17007a53fced417fdb3020baac8a8f8dd230a2d3fd854e"
+file = "config/yosbr/config/bedrockify-ExternalLoadingTips.json"
+hash = "070db915479c969425c248b201e833d01fde22c6c4f0b325a36aa9dbcbaa9a9c"
+
+[[files]]
+file = "config/yosbr/config/bedrockify.json"
+hash = "3e036e4ffeccbbd425933a95b837097c00f114797f8018866b45e3d65b54fe1a"
+
+[[files]]
+file = "config/yosbr/config/bedrockifyMixins.json"
+hash = "ea15b986b0af6b79cbfb100f3d8fafbebc611081765428c5e90a9f8ef94f882d"
+
+[[files]]
+file = "config/yosbr/config/gamecontrollerdatabase.txt"
+hash = "5a6c70809ad74be6941ea1eb5f42762a034e044b3e0ab5fc542ca983cfebdb56"
+
+[[files]]
+file = "config/yosbr/config/sodium-options.json"
+hash = "52fa21d31fc7a3f71311430a38f783f63923ebe84fc19823b7a5c2a087a45cf7"
+
+[[files]]
+file = "config/yosbr/options.amecsapi.txt"
+hash = "8ecbb5ab0912bd7473850d9a77460cb1b53328eaa2ca99b690e7ded261066f7e"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "ef3b9ea55d8ac1c632da1a0beb1e2e42107f3fce6462eabfa4b7faf280873b69"
 
 [[files]]
 file = "mods/amecs.pw.toml"
@@ -35,11 +59,6 @@ hash = "f264c166b22cf93af5e44a3d65931e2a46008d11ee0cd81f209a3af54979a760"
 metafile = true
 
 [[files]]
-file = "mods/lithium.toml"
-hash = "cbedab2ca0ec5c65cbcb2e1c51c8cc638109b60d3774c3232534ccadda9b9335"
-metafile = true
-
-[[files]]
 file = "mods/midnightcontrols.pw.toml"
 hash = "2025781b6cd1a292e5a9c42d9596e81e09a8a5f63fcc86042312332337976558"
 metafile = true
@@ -47,11 +66,6 @@ metafile = true
 [[files]]
 file = "mods/phosphor.pw.toml"
 hash = "466d5892937df5aa05388291463b163b42fa454d8bfd22713484a0167ca3702d"
-metafile = true
-
-[[files]]
-file = "mods/phosphor.toml"
-hash = "103f9e1bc20ebbef5a496b73572aaa9a24066831fc61fe3a28eedea3602153f9"
 metafile = true
 
 [[files]]
@@ -70,14 +84,10 @@ hash = "0d539d8bad8493d4196bf5f7bf216d692384f283849fa41a2e5a816a0147673e"
 metafile = true
 
 [[files]]
-file = "mods/sodium.toml"
-hash = "4bfa59263c3c2e8b8435eecdd8a944d1345b4b249191ccbadc953f3417b93608"
+file = "mods/yosbr.pw.toml"
+hash = "7c2712882baa2ed177b9b961cc1052b857f11ed1455609f9e9f01332c0317f12"
 metafile = true
 
 [[files]]
 file = "packwiz-installer-bootstrap.jar"
 hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
-
-[[files]]
-file = "steamdeck.png"
-hash = "530d48c13254b1b88826c4b079459c4f5908f533c5e93b5736dd5affd59e8de7"
