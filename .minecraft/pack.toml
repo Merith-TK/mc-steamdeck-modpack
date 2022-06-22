@@ -1,13 +1,13 @@
-name = "Modpack Template"
-author = "Merith.TK"
+name = "SteamDeck"
+author = "Merith-TK"
 version = "1.0.0"
-pack-format = "packwiz:1.0.0"
+pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "d021bf567c5145418d5c6aec8806f0c9b0d7f8cf9b8a820301e8998e797f59c0"
+hash = "8c841e4046ead097563c85db561627c1472a95131e5ce2cd0ed5faf8e17d9317"
 
 [versions]
-fabric = "0.13.3"
-minecraft = "1.18.1"
+fabric = "0.14.8"
+minecraft = "1.19"
