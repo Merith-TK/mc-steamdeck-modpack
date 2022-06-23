@@ -13,6 +13,10 @@ file = "config/yosbr/config/bedrockifyMixins.json"
 hash = "ea15b986b0af6b79cbfb100f3d8fafbebc611081765428c5e90a9f8ef94f882d"
 
 [[files]]
+file = "config/yosbr/config/betterf3.json"
+hash = "7b696d57f93abefc7d58702e6b1c8aba35d0f6e5da0e3ee8a2f98737cba42c1f"
+
+[[files]]
 file = "config/yosbr/config/gamecontrollerdatabase.txt"
 hash = "5a6c70809ad74be6941ea1eb5f42762a034e044b3e0ab5fc542ca983cfebdb56"
 
@@ -36,6 +40,11 @@ metafile = true
 [[files]]
 file = "mods/bedrockify.pw.toml"
 hash = "25774c3a9c51bdef6a40b5ce2a25b61372e24bbee3c20db1a5e9b57958721f2d"
+metafile = true
+
+[[files]]
+file = "mods/betterf3.pw.toml"
+hash = "90de023b54d15536a49e98bd4b79319940381bad60e8ca9798a4f5468b9b156f"
 metafile = true
 
 [[files]]
