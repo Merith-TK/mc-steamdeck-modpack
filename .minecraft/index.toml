@@ -54,7 +54,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "49b2d1cd601a35967f875dbf0fa762295fc93621f1caa5292561ba527f1d0c9d"
+hash = "e7cec26ae28ac003a313d63fcb722b3c52c4ca10eae61e0ba7686ef4ae1410f5"
 metafile = true
 
 [[files]]
@@ -64,7 +64,7 @@ metafile = true
 
 [[files]]
 file = "mods/midnightcontrols.pw.toml"
-hash = "2025781b6cd1a292e5a9c42d9596e81e09a8a5f63fcc86042312332337976558"
+hash = "bee23a74fc2b55a375321d7347b45059550e52bd17eab187db95135b3551e579"
 metafile = true
 
 [[files]]
