@@ -1,13 +1,13 @@
 name = "MidnightControls"
-filename = "midnightcontrols-1.2.1+1.19.jar"
+filename = "midnightcontrols-1.3.0+1.19.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/bXX9h73M/versions/1.2.1/midnightcontrols-1.2.1%2B1.19.jar"
+url = "https://cdn.modrinth.com/data/bXX9h73M/versions/1.3.0/midnightcontrols-1.3.0%2B1.19.jar"
 hash-format = "sha1"
-hash = "336ef22d02aa803403a4e845d148692fe438e859"
+hash = "aca92b1c436c1f25328ece65267cc65478e80210"
 
 [update]
 [update.modrinth]
 mod-id = "bXX9h73M"
-version = "QBZrAk6Y"
+version = "AASJDT7v"
