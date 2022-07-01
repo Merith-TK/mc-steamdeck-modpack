@@ -68,6 +68,11 @@ hash = "bee23a74fc2b55a375321d7347b45059550e52bd17eab187db95135b3551e579"
 metafile = true
 
 [[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "f6a072019c35753a4ab34024ca0619f76b25778c4f6e5a1bdba00b86407e2d9c"
+metafile = true
+
+[[files]]
 file = "mods/phosphor.pw.toml"
 hash = "466d5892937df5aa05388291463b163b42fa454d8bfd22713484a0167ca3702d"
 metafile = true
