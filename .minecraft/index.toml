@@ -68,6 +68,11 @@ hash = "bee23a74fc2b55a375321d7347b45059550e52bd17eab187db95135b3551e579"
 metafile = true
 
 [[files]]
+file = "mods/modmenu.pw.toml"
+hash = "f0a7c49ae4417a753722da78046a7513e059e5964e21154f4aef50df6a1d6ed0"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "f6a072019c35753a4ab34024ca0619f76b25778c4f6e5a1bdba00b86407e2d9c"
 metafile = true
