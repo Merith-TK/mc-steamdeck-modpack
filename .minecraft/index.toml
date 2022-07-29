@@ -1,24 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/yosbr/config/bedrockify-ExternalLoadingTips.json"
-hash = "070db915479c969425c248b201e833d01fde22c6c4f0b325a36aa9dbcbaa9a9c"
-
-[[files]]
-file = "config/yosbr/config/bedrockify.json"
-hash = "3e036e4ffeccbbd425933a95b837097c00f114797f8018866b45e3d65b54fe1a"
-
-[[files]]
-file = "config/yosbr/config/bedrockifyMixins.json"
-hash = "ea15b986b0af6b79cbfb100f3d8fafbebc611081765428c5e90a9f8ef94f882d"
-
-[[files]]
 file = "config/yosbr/config/betterf3.json"
 hash = "7b696d57f93abefc7d58702e6b1c8aba35d0f6e5da0e3ee8a2f98737cba42c1f"
-
-[[files]]
-file = "config/yosbr/config/gamecontrollerdatabase.txt"
-hash = "5a6c70809ad74be6941ea1eb5f42762a034e044b3e0ab5fc542ca983cfebdb56"
 
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
