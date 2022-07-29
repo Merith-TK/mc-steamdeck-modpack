@@ -5,8 +5,28 @@ file = "config/yosbr/config/ViaFabric/viafabric.yml"
 hash = "51f29ef27926d0bb3ce740f8396f636605ad91c15a65ad64c492bc897d688485"
 
 [[files]]
-file = "config/yosbr/config/bedrockify.json"
-hash = "80478370f73eb4df406429d9c9166cc5786e636f53e02b190dc8258a2f224380"
+file = "config/yosbr/config/advancedchat/advancedchatbox.json"
+hash = "e3bb566a4569ce196f4c8b4fb00991671d3545bec0a3ebcfaa3d768edc0c84a7"
+
+[[files]]
+file = "config/yosbr/config/advancedchat/advancedchatcore.json"
+hash = "36c9680ef279e1599831705e26b259dbab470beb99db9ea5fa22531454ebbbb1"
+
+[[files]]
+file = "config/yosbr/config/advancedchat/advancedchathud.json"
+hash = "b9542e79c40e276b25fc385062dd1715f72b5780cc67862aa4b7d02a9e415fe8"
+
+[[files]]
+file = "config/yosbr/config/advancedchat/advancedchatlog.json"
+hash = "90a31376e02267c3b2349618a33157998fad9f0cfa9127ab605f95e72d62a071"
+
+[[files]]
+file = "config/yosbr/config/advancedchat/colors.toml"
+hash = "70568828009ff9c916c631feb0867555f5419dd524b7df702e63a247844ce29e"
+
+[[files]]
+file = "config/yosbr/config/advancedchat/saved_lines.json"
+hash = "10c74498e4e68325af1f03d000b579f70edbc9510f9624411492d6e16a0408f1"
 
 [[files]]
 file = "config/yosbr/config/betterf3.json"
