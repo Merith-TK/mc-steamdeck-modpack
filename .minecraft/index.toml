@@ -1,20 +1,44 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/yosbr/config/ViaFabric/viafabric.yml"
+hash = "51f29ef27926d0bb3ce740f8396f636605ad91c15a65ad64c492bc897d688485"
+
+[[files]]
+file = "config/yosbr/config/bedrockify.json"
+hash = "80478370f73eb4df406429d9c9166cc5786e636f53e02b190dc8258a2f224380"
+
+[[files]]
 file = "config/yosbr/config/betterf3.json"
 hash = "7b696d57f93abefc7d58702e6b1c8aba35d0f6e5da0e3ee8a2f98737cba42c1f"
+
+[[files]]
+file = "config/yosbr/config/midnightcontrols.json"
+hash = "55b8ee93cc5c0a11c46fcaf1715438b242ba6cc6e2fbcaa544ccdc26f2896e3d"
+
+[[files]]
+file = "config/yosbr/config/modmenu.json"
+hash = "22de2cf059365108a1ad38169f3840c73cec8840534cc9aff7fedd0e4f5a5622"
+
+[[files]]
+file = "config/yosbr/config/multconnect/config.json"
+hash = "972990a1b912cb4f145e0ef50cd9f0755a92ced826adcfd3fcf43900838ed767"
 
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
 hash = "52fa21d31fc7a3f71311430a38f783f63923ebe84fc19823b7a5c2a087a45cf7"
 
 [[files]]
+file = "config/yosbr/config/toomanybinds.json5"
+hash = "1cdb458d4ac434d9463730cf6ce417ceea5e974c19b5665224de8382dcedd5b1"
+
+[[files]]
 file = "config/yosbr/options.amecsapi.txt"
-hash = "8ecbb5ab0912bd7473850d9a77460cb1b53328eaa2ca99b690e7ded261066f7e"
+hash = "80b7a021d369487b647ced611b7c081408dca5543cc6fe63e7bbf5ec55e0a4e0"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "ef3b9ea55d8ac1c632da1a0beb1e2e42107f3fce6462eabfa4b7faf280873b69"
+hash = "e786d336cded1fd4ee9f8edc9ee27412c7c47084913663f3733499d6dbd531de"
 
 [[files]]
 file = "mods/amecs.pw.toml"
