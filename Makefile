@@ -17,31 +17,21 @@ default:
 	
 curseforge:
 	@echo "Making Curseforge pack"
-	packwiz curseforge export --pack-file .minecraft/pack.toml -o ../modpack-curseforge.zip
-	7z d ../modpack-curseforge.zip overrides/packwiz-installer-bootstrap.jar overrides/pack.toml  overrides/index.toml	
+	packwiz curseforge export --pack-file .minecraft/pack.toml -o ../steammc-curseforge.zip
+	7z d ../steammc-curseforge.zip overrides/packwiz-installer-bootstrap.jar overrides/pack.toml  overrides/index.toml	
 
 modrinth:
 	@echo "Making Modrinth pack"
-	packwiz modrinth export --pack-file .minecraft/pack.toml -o ../modpack-modrinth.zip
-	7z d ../modpack-modrinth.zip overrides/packwiz-installer-bootstrap.jar overrides/pack.toml  overrides/index.toml	
+	packwiz modrinth export --pack-file .minecraft/pack.toml -o ../steammc-modrinth.zip
+	7z d ../steammc-modrinth.zip overrides/packwiz-installer-bootstrap.jar overrides/pack.toml  overrides/index.toml	
 
 multimc:
 	@echo "Making MultiMC pack"
-	7z d ../modpack-multimc.zip ./* -r
-	7z d ../modpack-multimc.zip ./.minecraft -r
-	7z a ../modpack-multimc.zip ./* -r
-	7z a ../modpack-multimc.zip ./.minecraft -r
-	7z d ../modpack-multimc.zip ./.minecraft/mods ./.minecraft/pack.toml ./.minecraft/index.toml -r
-
-technic:
-	@echo "Making Technic pack"
-	-rm -rf .technic
-	-cp -r .minecraft .technic
-	mv .technic/modpack.icon.png .technic/icon.png
-	cd .technic && java -jar packwiz-installer-bootstrap.jar https://gitlab.com/Merith-TK/modpack-template/-/raw/main/.minecraft/pack.toml && cd ..
-	-rm -rf .technic/packwiz*
-	7z d ../modpack-technic.zip ./* -r
-	7z a ../modpack-technic.zip ./.technic/* -r
+	7z d ../steammc-multimc.zip ./* -r
+	7z d ../steammc-multimc.zip ./.minecraft -r
+	7z a ../steammc-multimc.zip ./* -r
+	7z a ../steammc-multimc.zip ./.minecraft -r
+	7z d ../steammc-multimc.zip ./.minecraft/mods ./.minecraft/pack.toml ./.minecraft/index.toml -r
 
 clean:
 	-rm -rf .technic
