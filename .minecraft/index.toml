@@ -86,6 +86,11 @@ hash = "8fb914c75a06a677721dd1fc880606d790886be9e0b392820dcecb9bb56e0786"
 metafile = true
 
 [[files]]
+file = "mods/malilib.pw.toml"
+hash = "9d9b3772d9e12b474675846005279f4b3957711744a550ab14284ed4187fc270"
+metafile = true
+
+[[files]]
 file = "mods/midnightcontrols.pw.toml"
 hash = "9f4c42266f8231c6ed4e8b61363d5b9e84de8e86a21ab44272e31b1baaa68d1d"
 metafile = true
