@@ -61,6 +61,26 @@ file = "config/yosbr/options.txt"
 hash = "e786d336cded1fd4ee9f8edc9ee27412c7c47084913663f3733499d6dbd531de"
 
 [[files]]
+file = "mods/advancedchatbox.pw.toml"
+hash = "42fa3ad05e710943c4fd6a7285f7f0c455acba48b0ca9f4b375290f3fc5592f9"
+metafile = true
+
+[[files]]
+file = "mods/advancedchatcore.pw.toml"
+hash = "eb0cc9cb1eb8cb88ee5a51b496d897448a64ff1740248665f2bfe0999919e51a"
+metafile = true
+
+[[files]]
+file = "mods/advancedchathud.pw.toml"
+hash = "b7a33050efbe729f475c41f7e6c06459ed1fa52d87bcf5eed7786f498ee1ec2e"
+metafile = true
+
+[[files]]
+file = "mods/advancedchatlog.pw.toml"
+hash = "6b853c14d47c17b7fa62e5384a9c5b0e7a5f2fb522308243793ceb951063df1f"
+metafile = true
+
+[[files]]
 file = "mods/amecs.pw.toml"
 hash = "208a021c2243bdcbddb09c5ed46eb150c390a89801b8c44703ecb83066cf20f3"
 metafile = true
