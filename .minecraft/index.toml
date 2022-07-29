@@ -17,6 +17,11 @@ file = "config/yosbr/options.txt"
 hash = "ef3b9ea55d8ac1c632da1a0beb1e2e42107f3fce6462eabfa4b7faf280873b69"
 
 [[files]]
+file = "mods/amecs.pw.toml"
+hash = "208a021c2243bdcbddb09c5ed46eb150c390a89801b8c44703ecb83066cf20f3"
+metafile = true
+
+[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "97b90825ea397eae1dc108b5a9257e3065feacb553e72c019fba62495a72c1d0"
 metafile = true
