@@ -29,12 +29,16 @@ file = "config/yosbr/config/advancedchat/saved_lines.json"
 hash = "10c74498e4e68325af1f03d000b579f70edbc9510f9624411492d6e16a0408f1"
 
 [[files]]
+file = "config/yosbr/config/autoswitch.cfg"
+hash = "001c5570b4985ed4f7fec4c34b9b410ec4d3fe21ac7be49cc86c72445a06b8a0"
+
+[[files]]
 file = "config/yosbr/config/betterf3.json"
 hash = "7b696d57f93abefc7d58702e6b1c8aba35d0f6e5da0e3ee8a2f98737cba42c1f"
 
 [[files]]
 file = "config/yosbr/config/midnightcontrols.json"
-hash = "55b8ee93cc5c0a11c46fcaf1715438b242ba6cc6e2fbcaa544ccdc26f2896e3d"
+hash = "c3a93cda1c9612965bdeeedf50891e91b8db5833f9aa5b8b5f8bc637f0ac74d7"
 
 [[files]]
 file = "config/yosbr/config/modmenu.json"

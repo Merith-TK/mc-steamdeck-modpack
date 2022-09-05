@@ -1,5 +1,5 @@
 {
-  "controlsMode": "DEFAULT",
+  "controlsMode": "CONTROLLER",
   "autoSwitchMode": true,
   "debug": false,
   "hudEnable": true,
@@ -22,8 +22,8 @@
   "leftDeadZone": 0.25,
   "invertRightYAxis": false,
   "invertRightXAxis": false,
-  "rotationSpeed": 40.0,
-  "yAxisRotationSpeed": 40.0,
+  "rotationSpeed": 14.0,
+  "yAxisRotationSpeed": 8.0,
   "mouseSpeed": 25.0,
   "unfocusedInput": false,
   "virtualMouse": false,
