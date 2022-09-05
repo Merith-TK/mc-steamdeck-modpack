@@ -86,6 +86,11 @@ hash = "208a021c2243bdcbddb09c5ed46eb150c390a89801b8c44703ecb83066cf20f3"
 metafile = true
 
 [[files]]
+file = "mods/autoswitch.pw.toml"
+hash = "114f2ffbef0cf7d7d95a2268b1d96efd4417e861272a75a1ab216aedb0b0fabd"
+metafile = true
+
+[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "97b90825ea397eae1dc108b5a9257e3065feacb553e72c019fba62495a72c1d0"
 metafile = true
@@ -97,17 +102,17 @@ metafile = true
 
 [[files]]
 file = "mods/dashloader.pw.toml"
-hash = "e9ae0492006c9a6bc309bee3658dcc6ebb96d213f74f6285bac4ae26ffc67631"
+hash = "4fb938b3b07afc32216c63ba982ba25e28f4d0e63ddecdd26bea4e6dfa77b0fc"
 metafile = true
 
 [[files]]
-file = "mods/essential-mod.pw.toml"
-hash = "501793243d5a134a1df71ad3f5ca47c20d1346c518957ebe55eff95160a4cd20"
+file = "mods/essential.pw.toml"
+hash = "58911d03dcdd03583efa113656167fb08dc71bf251043a71854011fafbd02553"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "1c85df49ef6653679a899b14323d0abe11a99b121c2571f236704d98b4beab24"
+hash = "0164a54948e8c8b4220f1b3f8a41a1c450050fe19e04256ed96e36f58db019d3"
 metafile = true
 
 [[files]]
@@ -132,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/midnightcontrols.pw.toml"
-hash = "9f4c42266f8231c6ed4e8b61363d5b9e84de8e86a21ab44272e31b1baaa68d1d"
+hash = "d09cd1d0aedef9f4c6acceda635ba7c9d33e688d2cda51f299d9acca1156ea1a"
 metafile = true
 
 [[files]]
@@ -157,17 +162,17 @@ metafile = true
 
 [[files]]
 file = "mods/reacharound.pw.toml"
-hash = "9566b6e7b46476e36873b4c032b9163d7198692cf4dcc2ba547820ce7c941000"
+hash = "6973dccefd1d685a8626afdc1cd94d0d8e70874f28a23f97b2e8670556ebc795"
 metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "ae4b4112db3f14bcb9e8dc10ea06e83d84bff4d9ad2a3dfd74533c1256b98218"
+hash = "1c6d01b013b9e8c6dd921046adc7c7768814c17a0fde45cbe695c8e2de40f8be"
 metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "3f2148f425622b9226aac1a5ea41f6613f9fdc0f484eadd72d30714ab0a73895"
+hash = "a861006c66175659b11c63a2e3872852b58626e7bb756bf39213cef991c490be"
 metafile = true
 
 [[files]]
